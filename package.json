@@ -1,0 +1,28 @@
+{
+  "name": "fenrirunbound-wst-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FenrirUnbound/wst-app.git"
+  },
+  "author": "Darren M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FenrirUnbound/wst-app/issues"
+  },
+  "homepage": "https://github.com/FenrirUnbound/wst-app#readme",
+  "private": true,
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "good": "^7.1.0",
+    "hapi": "^16.1.0"
+  }
+}
