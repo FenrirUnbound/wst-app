@@ -20,7 +20,7 @@ describe('server test', () => {
   it('works', () => {
     return server.inject({
       method: 'GET',
-      url: '/sites/status'
+      url: '/_default/status'
     }).then((response) => {
       expect(response.statusCode).to.equal(200);
 
