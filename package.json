@@ -22,7 +22,7 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
-    "fenrirunbound-ttbo": "github:fenrirunbound/wst-ttbo",
+    "fenrirunbound-ttbo": "github:fenrirunbound/wst-ttbo#cf44fa4",
     "good": "^7.1.0",
     "hapi": "^16.1.0",
     "node-env-file": "^0.1.8"
